@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalcularNota</string>
+    <string name="txt_title">Simulador de Nota</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="edad">EDAD</string>
+    <string name="calcular">Calcular</string>
+    <string name="media_txt">Sua média é:</string>
+    <string name="limpar">Limpar</string>
+
+</resources>
